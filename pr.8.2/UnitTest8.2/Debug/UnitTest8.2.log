@@ -1,0 +1,5 @@
+﻿  UnitTest8.2.cpp
+C:\Users\Arsen\source\repos\pr.8.2\pr.8.2\Source.cpp(11,21): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Arsen\source\repos\pr.8.2\UnitTest8.2\UnitTest8.2.cpp(19,41): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Arsen\source\repos\pr.8.2\UnitTest8.2\UnitTest8.2.cpp(19,41): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  UnitTest8.2.vcxproj -> C:\Users\Arsen\source\repos\pr.8.2\Debug\UnitTest8.2.dll
